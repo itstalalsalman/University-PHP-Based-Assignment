@@ -1,0 +1,27 @@
+form{
+    margin-left: 550px;
+}
+.div-error { 
+    display: flex; 
+    align-items: center;
+    gap: 10px;
+}
+.div-error p {color: red; font-weight: bold; }
+
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px 5px;
+}
+
+.valid{ 
+    margin: 0 auto; 
+    background-color: green; 
+    color: white; 
+    text-align: center;
+}
+
+.invalid { margin: 0 auto; 
+    color: red; 
+    text-align: center;
+} 
